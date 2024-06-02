@@ -52,9 +52,11 @@ The system requirements include user authentication, player profile management, 
 
 ### Architecture Diagram
 An architecture diagram illustrating the system components and their interactions.
+![ER Diagram](CrickAuction Architecture.png)
 
 ### ER Diagram
 An ER diagram representing the relationships between entities like players, franchises, and bids.
+![ER Diagram](ER digram IPL auction.pdf)
 
 ### Normalization
 The database follows normalization rules up to the third normal form (3NF) to eliminate redundancy and ensure data integrity.
